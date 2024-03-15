@@ -1,0 +1,11 @@
+Intrucciones de ejecucción: 
+
+1.Ubique el icono de la aplicación y de clic derecho, de clic en abrir propieades
+
+2.Se abriar una ventana de la aplicación y buscara la pestaña de compatibiliad
+
+3.En las pestaña compatibilidad buscamos la casilla de ejecutar este program como
+administrador 
+
+4.Activamos la casilla que se indico anteriomente y damos aplicar 
+
